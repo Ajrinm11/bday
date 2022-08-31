@@ -17,6 +17,6 @@ function new_image()
 	
 }
 
-function playSound(){
+function play(){
 	x.play();
 }
